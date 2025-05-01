@@ -5,8 +5,11 @@ Day 04 :
 	- parent child realtion in div
 	- box-sizing: border-box;
 	- external css
-
-
+	- https://github.com/TheWebUstaad/Web-appBatch1
+	- https://mycolor.space/
+	- Css Variables 
+	- Flex box
+	
 
 
 
