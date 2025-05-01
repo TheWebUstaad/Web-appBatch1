@@ -1,0 +1,82 @@
+Day 04 :
+	- Proper Single WebPage Desing / layout / singlepage website
+	- universl selector *
+	- responsive website with % percentage
+	- parent child realtion in div
+	- box-sizing: border-box;
+	- external css
+
+
+
+
+
+
+ 
+------------------------------
+Day 3: 
+	Tags : <h1> to <h6> <p> <hr> <br> <u> <mark>
+	       None-semantic tags <div>  </div>
+	       semantic tags <header><nav> <footer> <section> <aside>
+	CSS (Cascading Style Sheets)
+	-type of Css 
+	    -inline Css 
+		<div style=""> <section style="">
+		property : value 
+		color : red,black,blue,yellow
+		font-size: 22px
+		style="color:red; font-size:18px;"
+
+		<section> <div>  style apply all over the box 
+		height width  (px)
+
+	     -internal Css
+		- <style> </style>
+		- { color:red;  } 
+	     - class selector 
+		.box .gallery .button .link .heading 
+		- Class="" 
+		- padding  & margin (direction : left right top bottom)
+	     -tag based styling 
+------------------------------
+Day 1:
+------------------------------
+	install:
+		(Vs Code)
+		Git  
+		Github Account 
+------------------------------
+What is Website ? 
+	collection pages (Text Videos Images Links Audio)
+HTML -> 
+CSS -> 
+Jvascript -> 
+------------------------------
+jpeg png svg icon jpg webp 
+------------------------------
+Main Page html (index.html)
+Contact Page  contact.html
+About Page 	about.html
+------------------------------
+Gallery/Portfolio gallery.html
+Courses courses.html
+Shop shop.html 
+------------------------------
+Tag <h1>  Hello World </h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
