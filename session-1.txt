@@ -1,3 +1,10 @@
+Day 05: 
+	- flex
+	    - display: flex;
+            - flex-wrap: wrap;
+            - justify-content: end;
+            - align-items: center;
+------------------------------
 Day 04 :
 	- Proper Single WebPage Desing / layout / singlepage website
 	- universl selector *
@@ -9,12 +16,7 @@ Day 04 :
 	- https://mycolor.space/
 	- Css Variables 
 	- Flex box
-	
 
-
-
-
- 
 ------------------------------
 Day 3: 
 	Tags : <h1> to <h6> <p> <hr> <br> <u> <mark>

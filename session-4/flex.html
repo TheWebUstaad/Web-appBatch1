@@ -6,14 +6,25 @@
     <title>Document</title>
     <style>
         .container{
-            width: 80%;
+            width: 100%;
+            /* height: 70vh; */
             background-color: black;
             padding: 20px;
             display: flex;
+            
+            flex-wrap: wrap;
+            justify-content:space-around;
+            /* align-items: center; */
+            gap:100px;
+             padding: 100px;   
         }
         .box {
             background-color: white;
             margin: 10px;
+            height: 100px;
+            width: 100px;
+            padding: 20px;
+            
         }
     </style>
 </head>
@@ -21,19 +32,17 @@
     <div class="container">
         <div class="box">
             <h1>Flexbox</h1>
-            <p>Flexbox is a one-dimensional layout method for laying out items in rows or columns.</p>
-            <p>It is a powerful tool for creating responsive layouts.</p>
+           
         </div>
         <div class="box">
             <h1>Flexbox</h1>
-            <p>Flexbox is a one-dimensional layout method for laying out items in rows or columns.</p>
-            <p>It is a powerful tool for creating responsive layouts.</p>
+           
         </div>
         <div class="box">
             <h1>Flexbox</h1>
-            <p>Flexbox is a one-dimensional layout method for laying out items in rows or columns.</p>
-            <p>It is a powerful tool for creating responsive layouts.</p>
-        </div>
+        </div> 
+      
+
     </div>
 </body>
 </html>
